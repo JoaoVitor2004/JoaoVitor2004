@@ -2,7 +2,7 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JoaoVitor2004&show_icons=true&theme=gruvbox)
 
-## Minhas redes Sociais 
+## Entre em contato comigo por: 
 <div> 
   <a href="mailto:joaovitorsouzaa28122004@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href="https://instagram.com/joaovitords12" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 

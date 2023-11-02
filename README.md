@@ -1,6 +1,6 @@
 # Ola! eu sou o João Vitor 🤙
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=gruvbox)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JoaoVitor2004&show_icons=true&theme=gruvbox)
 
 ## Minhas redes Sociais 
 <div> 

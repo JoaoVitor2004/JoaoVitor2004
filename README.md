@@ -1,9 +1,6 @@
 <h1>Ola! eu sou o João Vitor 🤙</h1>
 
-
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JoaoVitor2004&show_icons=true&theme=gruvbox)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true)
 
 <h2>Entre em contato comigo por:</h2>
 <div> 

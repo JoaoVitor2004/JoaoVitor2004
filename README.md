@@ -1,6 +1,6 @@
-<h1>Ola! eu sou o João Vitor 🤙</h1>
+<h1>Ola! eu sou o João Vitor 👋</h1>
 
-<p>Ola prazer meu nome é João Vitor tenho 18 anos sou desenvolvedor web apaixonado por programação, tenho conhecimentos sobre HTML5 e CSS3 e outras tecnologias como git e github e atualmemte no momento estou estudando javascript</p>
+<p>Ola prazer meu nome é João Vitor tenho 18 anos sou desenvolvedor web apaixonado por programação, tenho conhecimentos sobre HTML5 e CSS3 e outras tecnologias como git e github e atualmemte no momento estou estudando javascript</p> <br>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JoaoVitor2004&show_icons=true&theme=gruvbox)
 

@@ -1,6 +1,10 @@
 <h1>Ola! eu sou o João Vitor 👋</h1>
 
-<p style="line-height: 25px">Ola prazer meu nome é João Vitor tenho 18 anos sou desenvolvedor web apaixonado por programação, tenho conhecimentos sobre HTML5 e CSS3 e outras tecnologias como git e github e atualmemte no momento estou estudando javascript</p> <br>
+<p style="line-height: 25px">Olá prazer meu nome é João Vitor tenho 18 anos sou apaixonado por programação e desenvolvo web sites, iniciei meus estudos na programação em março de 2023, tenho conhecimentos avançados de html5 e css3, sou capaz de criar layouts responsivos e saber usar flex box e grid somente com css, consigo utilizar controle de versionamento de código com o git e atualmente estou estudando javascript.
+
+Possuo foco em desenvolvimento com html, css, javascript, dentre outras tecnologias que eu utilizo para criar web sites.
+
+Venho adquirindo conhecimento dia após dia me considero ágil e adaptável a qualquer mudança! Se eu pudesse me definir em 3 palavras, seriam: esforçado, persistente, e otimista.</p> <br>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JoaoVitor2004&show_icons=true&theme=gruvbox)
 

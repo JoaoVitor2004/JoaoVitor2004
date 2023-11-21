@@ -1,11 +1,14 @@
 <h1>Ola! eu sou o João Vitor 🤙</h1>
 
+<p style="line-height: 26px;>Ola prazer meu nome é João Vitor tenho 18 anos sou desenvolvedor web apaixonado por programação, tenho conhecimentos sobre HTML5 e CSS3 e outras tecnologias como git e github e atualmemte no momento estou estudando javascript</p> <br>
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JoaoVitor2004&show_icons=true&theme=gruvbox)
 
 <h2>Entre em contato comigo por:</h2>
 <div> 
   <a href="mailto:joaovitorsouzaa28122004@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href="https://instagram.com/joaovitords12" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/jo%C3%A3o-vitor-souza-670838238"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </div>
 
 <h2>Tecnologias que eu utilizo:</h2>

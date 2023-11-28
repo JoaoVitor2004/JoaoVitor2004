@@ -2,11 +2,7 @@
 
 <h2 style="font-family: verdana;">👨‍💻 SOBRE MIM:</h2>
 
-<p style="line-height: 25px">Olá prazer meu nome é João Vitor de Souza tenho 18 anos sou apaixonado por programação e desenvolvo web sites, iniciei meus estudos na programação em março de 2023, tenho conhecimentos avançados de html5 e css3, sou capaz de criar layouts responsivos e saber usar flex box e grid somente com css, consigo utilizar controle de versionamento de código com o git e atualmente estou estudando javascript.
-
-Possuo foco em desenvolvimento com html, css, javascript, dentre outras tecnologias que eu utilizo para criar web sites.
-
-Venho adquirindo conhecimento dia após dia me considero ágil e adaptável a qualquer mudança! Se eu pudesse me definir em 3 palavras, seriam: esforçado, persistente, e otimista.</p> <br>
+<p style="line-height: 25px">Prazer me chamo João Vitor de Souza tenho 18 anos sou desenvolvedor web apaixonado por tecnologia</p> <br>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JoaoVitor2004&show_icons=true&theme=gruvbox)
 

@@ -2,8 +2,6 @@
 
 <p style="line-height: 25px">Prazer me chamo João Vitor de Souza tenho 20 anos sou desenvolvedor frontend apaixonado por tecnologia</p> <br>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JoaoVitor2004&show_icons=true&theme=gruvbox) <br>
-
 
 <h2>📲 Entre em contato comigo por:</h2>
 <div> 

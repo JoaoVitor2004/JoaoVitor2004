@@ -1,7 +1,6 @@
 <h1>Olá! eu sou o João Vitor 👋</h1>
 
-<p style="line-height: 25px">Prazer me chamo João Vitor tenho 21 anos sou desenvolvedor web apaixonado por tecnologia</p> <br>
-
+<p style="line-height: 25px">Prazer me chamo João Vitor tenho 21 anos sou desenvolvedor web apaixonado por tecnologia</p>
 
 <h2>📲 Entre em contato comigo por:</h2>
 <div> 

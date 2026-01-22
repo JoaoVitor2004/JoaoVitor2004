@@ -1,12 +1,12 @@
 <h1>Olá! eu sou o João Vitor 👋</h1>
 
-<p style="line-height: 25px">Prazer me chamo João Vitor de Souza tenho 20 anos sou desenvolvedor frontend apaixonado por tecnologia</p> <br>
+<p style="line-height: 25px">Prazer me chamo João Vitor tenho 21 anos sou desenvolvedor web apaixonado por tecnologia</p> <br>
 
 
 <h2>📲 Entre em contato comigo por:</h2>
 <div> 
   <a href="mailto:joaovitorsouzaa28122004@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://instagram.com/joaovitords12" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://instagram.com/ohpoderdafala" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/jo%C3%A3o-vitor-souza-994bb4325"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </div> <br>
 
